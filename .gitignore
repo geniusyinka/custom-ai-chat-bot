@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/faiss.index
+/docstore.json
+/ingest.js
+/steps.md
